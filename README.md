@@ -209,7 +209,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 ## Datasets
 
-| Dataset         | Modality | # Samples | Description | # Emotions | Annotation Manner                |
+| Dataset         | Modality | Samples | Description | Emotions | Annotation Manner                |
 |-----------------|----------|-----------|-------------|------------|----------------------------------|
 | RAF-DB [16]      | I        | 29,672    | ✗           | 7          | Human                            |
 | AffectNet [17]   | I        | 450,000   | ✗           | 8          | Human                            |
