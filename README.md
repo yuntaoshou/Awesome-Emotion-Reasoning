@@ -258,6 +258,19 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 |                     | CH-SIMS [37]  | Test        | 457       | sentiment intensity, ranging from [-1, 1]               |
 |                     | CH-SIMS v2 [38]| Test       | 1,034     | sentiment intensity, ranging from [-1, 1]               |
 
+| Category              | Dataset       | Chosen Set  | # Samples | Label Description                                               |
+|-----------------------|---------------|-------------|-----------|-----------------------------------------------------------------|
+| **Fine-grained Emotion** | OV-MERD+      | All         | 532       | unfixed categories and diverse number of labels per sample     |
+| **Basic Emotion**        | MER2023 [22]  | MER-MULTI   | 411       | most likely label among six candidates                         |
+|                         | MER2024 [33]  | MER-SEMI    | 1,169     | most likely label among six candidates                         |
+|                         | IEMOCAP [34]  | Session5    | 1,241     | most likely label among four candidates                        |
+|                         | MELD [23]     | Test        | 2,610     | most likely label among seven candidates                       |
+| **Sentiment Analysis**  | CMU-MOSI [35] | Test        | 686       | sentiment intensity, ranging from [-3, 3]                      |
+|                         | CMU-MOSEI [36]| Test        | 4,659     | sentiment intensity, ranging from [-3, 3]                      |
+|                         | CH-SIMS [37]  | Test        | 457       | sentiment intensity, ranging from [-1, 1]                      |
+|                         | CH-SIMS v2 [38]| Test       | 1,034     | sentiment intensity, ranging from [-1, 1]                      |
+
+
 ## Other surveys
 | Paper | Url | Source | 
 | :---- | :----: | :----: 
