@@ -211,7 +211,6 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 | Dataset         | Modality | # Samples | Description | # Emotions | Annotation Manner                |
 |-----------------|----------|-----------|-------------|------------|----------------------------------|
-| **Categorical Dataset** |          |           |             |            |                                  |
 | RAF-DB [16]      | I        | 29,672    | ✗           | 7          | Human                            |
 | AffectNet [17]   | I        | 450,000   | ✗           | 8          | Human                            |
 | EmoDB [18]       | A        | 535       | ✗           | 7          | Human                            |
@@ -220,7 +219,6 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | FERV39k [21]     | V        | 38,935    | ✗           | 7          | Human                            |
 | MER2023 [22]     | A,V,T    | 5,030     | ✗           | 6          | Human                            |
 | MELD [23]        | A,V,T    | 13,708    | ✗           | 7          | Human                            |
-| **Descriptive Dataset** |          |           |             |            |                                  |
 | EmoViT [24]      | I        | 51,200    | ✓           | 988        | Model                            |
 | MERR-Coarse [15] | A,V,T    | 28,618    | ✓           | 113        | Model                            |
 | MAFW [14]        | A,V,T    | 10,045    | ✓           | 399        | Human                            |
