@@ -211,19 +211,19 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 | Dataset         | Modality | Samples | Description | Emotions | Annotation Manner                |
 |-----------------|----------|-----------|-------------|------------|----------------------------------|
-| RAF-DB [16]      | I        | 29,672    | ✗           | 7          | Human                            |
-| AffectNet [17]   | I        | 450,000   | ✗           | 8          | Human                            |
+| RAF-DB      | I        | 29,672    | ✗           | 7          | Human                            |
+| AffectNet   | I        | 450,000   | ✗           | 8          | Human                            |
 | EmoDB [18]       | A        | 535       | ✗           | 7          | Human                            |
-| MSP-Podcast [19] | A        | 73,042    | ✗           | 8          | Human                            |
-| DFEW [20]        | V        | 11,697    | ✗           | 7          | Human                            |
-| FERV39k [21]     | V        | 38,935    | ✗           | 7          | Human                            |
-| MER2023 [22]     | A,V,T    | 5,030     | ✗           | 6          | Human                            |
-| MELD [23]        | A,V,T    | 13,708    | ✗           | 7          | Human                            |
-| EmoViT [24]      | I        | 51,200    | ✓           | 988        | Model                            |
-| MERR-Coarse [15] | A,V,T    | 28,618    | ✓           | 113        | Model                            |
-| MAFW [14]        | A,V,T    | 10,045    | ✓           | 399        | Human                            |
-| OV-MERD [12]     | A,V,T    | 332       | ✓           | 236        | Human-led+Model-assisted         |
-| MERR-Fine [15]   | A,V,T    | 4,487     | ✓           | 484        | Human-led+Model-assisted         |
+| MSP-Podcast | A        | 73,042    | ✗           | 8          | Human                            |
+| DFEW        | V        | 11,697    | ✗           | 7          | Human                            |
+| FERV39k     | V        | 38,935    | ✗           | 7          | Human                            |
+| MER2023     | A,V,T    | 5,030     | ✗           | 6          | Human                            |
+| MELD        | A,V,T    | 13,708    | ✗           | 7          | Human                            |
+| EmoViT     | I        | 51,200    | ✓           | 988        | Model                            |
+| MERR-Coarse | A,V,T    | 28,618    | ✓           | 113        | Model                            |
+| MAFW        | A,V,T    | 10,045    | ✓           | 399        | Human                            |
+| OV-MERD     | A,V,T    | 332       | ✓           | 236        | Human-led+Model-assisted         |
+| MERR-Fine   | A,V,T    | 4,487     | ✓           | 484        | Human-led+Model-assisted         |
 | MER-Caption      | A,V,T    | 115,595   | ✓           | 2,932      | Model-led+Human-assisted         |
 | MER-Caption+     | A,V,T    | 31,327    | ✓           | 1,972      | Model-led+Human-assisted         |
 
