@@ -206,3 +206,10 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [InternLM-Math-7B|20B](https://huggingface.co/collections/internlm/internlm2-math-65b0ce88bf7d3327d0a5ad9f)
   - [InternLM-XComposer2-1.8|7B](https://huggingface.co/collections/internlm/internlm-xcomposer2-65b3706bf5d76208998e7477)
   - [InternVL-2|6|14|26](https://huggingface.co/collections/OpenGVLab/internvl-65b92d6be81c86166ca0dde4)
+
+## Acknowledgement :heart:
+Thanks to [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yuntaoshou/Awesome-Emotion-Reasoning&type=Date)](https://star-history.com/#yuntaoshou/Awesome-Emotion-Reasoning&Date)
