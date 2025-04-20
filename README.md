@@ -232,7 +232,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 |:-----------------:|:----------:|:-----------:|:-------------:|:------------:|:----------------------------------:|
 | RAF-DB      | I        | 29,672    | ✗           | 7          | Human                            |
 | AffectNet   | I        | 450,000   | ✗           | 8          | Human                            |
-| EmoDB [18]       | A        | 535       | ✗           | 7          | Human                            |
+| EmoDB        | A        | 535       | ✗           | 7          | Human                            |
 | MSP-Podcast | A        | 73,042    | ✗           | 8          | Human                            |
 | DFEW        | V        | 11,697    | ✗           | 7          | Human                            |
 | FERV39k     | V        | 38,935    | ✗           | 7          | Human                            |
@@ -257,6 +257,26 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 |Sentiment Analysis| CMU-MOSEI | Test        | 4,659     | sentiment intensity, ranging from [-3, 3]               |
 |Sentiment Analysis| CH-SIMS   | Test        | 457       | sentiment intensity, ranging from [-1, 1]               |
 |Sentiment Analysis| CH-SIMS v2 | Test       | 1,034     | sentiment intensity, ranging from [-1, 1]               |
+
+| Dataset         | Domain     | Dur(hrs) | #labels | Modality | Language | Emotion? | Ego? |
+|-----------------|------------|----------|---------|----------|----------|----------|------|
+| Large Movie | movie      | -        | 25,000  | t        | EN       | ✗        | ✗    |
+| SeMAINE     | dialogue   | 06:30    | 80      | v,a      | EN       | ✓        | ✗    |
+| HUMAINE     | diverse    | 04:11    | 50      | v,a      | various  | ✓        | ✗    |
+| YouTube     | diverse    | 00:29    | 300     | v,a,t    | various  | ✗        | ✗    |
+| SST         | movie      | -        | 11,855  | t        | EN       | ✗        | ✗    |
+| ICT-MMMO    | movie      | 13:58    | 340     | v,a,t    | EN       | ✗        | ✗    |
+| RECOLA      | dialogue   | 03:50    | 46      | v,a      | FR       | ✓        | ✓    |
+| MOUD        | review     | 00:59    | 400     | v,a,t    | ES       | ✗        | ✗    |
+| AFEW      | movie      | 02:28    | 1,645   | v,a      | various  | ✓        | ✓    |
+| SEWA        | adverts   | 04:39    | 538     | v,a      | EN,DE,EL | ✓        | ✗    |
+| Disneyworld | disneyland| 42:00    | 15,000  | v,a,t    | EN       | ✗        | ✓    |
+| EGTEA Gaze+ | diverse    | 28:00    | -       | v,a,t    | various  | ✓        | ✓    |
+| BEOID       | diverse    | -        | -       | v,a,t    | EN       | ✗        | ✗    |
+| Chorus-Ego  | home       | 34:00    | 30,000  | v,a,t    | EN       | ✗        | ✓    |
+| EPIC       | kitchen    | 100:00   | 90,000  | v,a,t    | EN       | ✗        | ✓    |
+| Ego-4D      | diverse    | 3025:00  | 74000   | v,a,t    | various  | ✗        | ✓    |
+| \(E^3\)   | diverse    | 71:41    | 81,248  | v,a,t    | various  | ✓        | ✓    |
 
 
 ## Other surveys
