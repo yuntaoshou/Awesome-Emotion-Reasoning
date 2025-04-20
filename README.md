@@ -213,14 +213,14 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | Mm-llms: Recent advances in multimodal large language models | [[paper]](https://arxiv.org/pdf/2401.13601) | [[source]](-) |
 | Efficient multimodal large language models: A survey | [[paper]](https://arxiv.org/pdf/2405.10739) | [[source]](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey) |
 | Hallucination of multimodal large language models: A survey | [[paper]](https://arxiv.org/pdf/2404.18930) | [[source]](https://github.com/showlab/Awesome-MLLM-Hallucination) |
-| A survey on benchmarks of multimodal large language models | [[paper]](https://arxiv.org/pdf/2408.08632) | https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey |
+| A survey on benchmarks of multimodal large language models | [[paper]](https://arxiv.org/pdf/2408.08632) | [[source]](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) |
 | A comprehensive survey of large language models and multimodal large language models in medicine | [[paper]](https://arxiv.org/pdf/2405.08603) | - |
 | Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning | [[paper]](https://arxiv.org/pdf/2401.06805) | - |
 | How to bridge the gap between modalities: A comprehensive survey on multimodal large language model | [[paper]](https://arxiv.org/pdf/2311.07594) | - |
 | A Comprehensive Overview of Large Language Models | [[paper]](https://arxiv.org/pdf/2307.06435) | - |
 | A review of multi-modal large language and vision models | [[paper]](https://arxiv.org/pdf/2404.01322) | - |
 | Large language models meet nlp: A survey | [[paper]](https://arxiv.org/pdf/2405.12819) | - |
-| Efficient large language models: A survey | [[paper]](https://arxiv.org/pdf/2312.03863) | https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey |
+| Efficient large language models: A survey | [[paper]](https://arxiv.org/pdf/2312.03863) | [[source]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) |
 
 ## Acknowledgement :heart:
 Thanks to [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM).
