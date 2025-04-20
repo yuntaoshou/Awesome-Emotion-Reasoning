@@ -207,6 +207,28 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [InternLM-XComposer2-1.8|7B](https://huggingface.co/collections/internlm/internlm-xcomposer2-65b3706bf5d76208998e7477)
   - [InternVL-2|6|14|26](https://huggingface.co/collections/OpenGVLab/internvl-65b92d6be81c86166ca0dde4)
 
+## Datasets
+
+| Dataset         | Modality | # Samples | Description | # Emotions | Annotation Manner                |
+|-----------------|----------|-----------|-------------|------------|----------------------------------|
+| **Categorical Dataset** |          |           |             |            |                                  |
+| RAF-DB [16]      | I        | 29,672    | ✗           | 7          | Human                            |
+| AffectNet [17]   | I        | 450,000   | ✗           | 8          | Human                            |
+| EmoDB [18]       | A        | 535       | ✗           | 7          | Human                            |
+| MSP-Podcast [19] | A        | 73,042    | ✗           | 8          | Human                            |
+| DFEW [20]        | V        | 11,697    | ✗           | 7          | Human                            |
+| FERV39k [21]     | V        | 38,935    | ✗           | 7          | Human                            |
+| MER2023 [22]     | A,V,T    | 5,030     | ✗           | 6          | Human                            |
+| MELD [23]        | A,V,T    | 13,708    | ✗           | 7          | Human                            |
+| **Descriptive Dataset** |          |           |             |            |                                  |
+| EmoViT [24]      | I        | 51,200    | ✓           | 988        | Model                            |
+| MERR-Coarse [15] | A,V,T    | 28,618    | ✓           | 113        | Model                            |
+| MAFW [14]        | A,V,T    | 10,045    | ✓           | 399        | Human                            |
+| OV-MERD [12]     | A,V,T    | 332       | ✓           | 236        | Human-led+Model-assisted         |
+| MERR-Fine [15]   | A,V,T    | 4,487     | ✓           | 484        | Human-led+Model-assisted         |
+| MER-Caption      | A,V,T    | 115,595   | ✓           | 2,932      | Model-led+Human-assisted         |
+| MER-Caption+     | A,V,T    | 31,327    | ✓           | 1,972      | Model-led+Human-assisted         |
+
 ## Other surveys
 | Paper | Url | Source | 
 | :---- | :----: | :----: 
