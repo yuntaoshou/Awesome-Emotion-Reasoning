@@ -246,6 +246,18 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | MER-Caption      | A,V,T    | 115,595   | ✓           | 2,932      | Model-led+Human-assisted         |
 | MER-Caption+     | A,V,T    | 31,327    | ✓           | 1,972      | Model-led+Human-assisted         |
 
+| Category            | Dataset       | Chosen Set  | # Samples | Label Description                                      |
+|---------------------|---------------|-------------|-----------|---------------------------------------------------------|
+| **Fine-grained Emotion** | OV-MERD+      | All         | 532       | unfixed categories and diverse number of labels per sample |
+| **Basic Emotion**    | MER2023 [22]  | MER-MULTI   | 411       | most likely label among six candidates                  |
+|                     | MER2024 [33]  | MER-SEMI    | 1,169     | most likely label among six candidates                  |
+|                     | IEMOCAP [34]  | Sessions5   | 1,241     | most likely label among four candidates                 |
+|                     | MELD [23]     | Test        | 2,610     | most likely label among seven candidates                |
+| **Sentiment Analysis** | CMU-MOSI [35] | Test        | 686       | sentiment intensity, ranging from [-3, 3]               |
+|                     | CMU-MOSEI [36]| Test        | 4,659     | sentiment intensity, ranging from [-3, 3]               |
+|                     | CH-SIMS [37]  | Test        | 457       | sentiment intensity, ranging from [-1, 1]               |
+|                     | CH-SIMS v2 [38]| Test       | 1,034     | sentiment intensity, ranging from [-1, 1]               |
+
 ## Other surveys
 | Paper | Url | Source | 
 | :---- | :----: | :----: 
