@@ -207,6 +207,25 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [InternLM-XComposer2-1.8|7B](https://huggingface.co/collections/internlm/internlm-xcomposer2-65b3706bf5d76208998e7477)
   - [InternVL-2|6|14|26](https://huggingface.co/collections/OpenGVLab/internvl-65b92d6be81c86166ca0dde4)
 
+## LLM for emotion recognition
+| Model            | Supported Modality | Link                                                                 |
+|------------------|--------------------|----------------------------------------------------------------------|
+| Otter        | Video, Text        | [GitHub](https://github.com/Luodian/Otter)                            |
+| VideoChat    | Video, Text        | [GitHub](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat) |
+| VideoChat2   | Video, Text        | [GitHub](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2) |
+| Video-LLaVA  | Video, Text        | [GitHub](https://github.com/PKU-YuanGroup/Video-LLaVA)                |
+| Video-LLaMA  | Video, Text        | [GitHub](https://github.com/DAMO-NLP-SG/Video-LLaMA)                  |
+| Video-ChatGPT | Video, Text        | [GitHub](https://github.com/mbzuai-oryx/Video-ChatGPT)                |
+| LLaMA-VID    | Video, Text        | [GitHub](https://github.com/dvlab-research/LLaMA-VID)                 |
+| mPLUG-Owl    | Video, Text        | [GitHub](https://github.com/X-PLUG/mPLUG-Owl)                        |
+| Chat-UniVi   | Video, Text        | [GitHub](https://github.com/PKU-YuanGroup/Chat-UniVi)                |
+| SALMONN      | Audio, Text        | [GitHub](https://github.com/bytedance/SALMONN)                       |
+| Qwen-Audio   | Audio, Text        | [GitHub](https://github.com/QwenLM/Qwen-Audio)                       |
+| SECap        | Audio, Text        | [GitHub](https://github.com/thuhcsi/SECap)                           |
+| OneLLM       | Audio, Video, Text | [GitHub](https://github.com/csuhan/OneLLM)                           |
+| PandaGPT     | Audio, Video, Text | [GitHub](https://github.com/yxuansu/PandaGPT)                        |
+| Emotion-LLaMA | Audio, Video, Text | [GitHub](https://github.com/ZebangCheng/Emotion-LLaMA)                |
+
 ## Datasets
 
 | Dataset         | Modality | Samples | Description | Emotions | Annotation Manner                |
