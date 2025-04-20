@@ -67,3 +67,140 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | 2024-12 |         Qwen2.5        |      Alibaba     | [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) |
 | 2024-12 |         DeepSeek-V3        |      DeepSeek     | [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437v1) |
 | 2025-01 |         DeepSeek-R1        |      DeepSeek     | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |
+
+## Open LLM
+<summary>DeepSeek</summary>
+  - [DeepSeek-Math-7B](https://huggingface.co/collections/deepseek-ai/deepseek-math-65f2962739da11599e441681)
+  - [DeepSeek-Coder-1.3|6.7|7|33B](https://huggingface.co/collections/deepseek-ai/deepseek-coder-65f295d7d8a0a29fe39b4ec4)
+  - [DeepSeek-VL-1.3|7B](https://huggingface.co/collections/deepseek-ai/deepseek-vl-65f295948133d9cf92b706d3)
+  - [DeepSeek-MoE-16B](https://huggingface.co/collections/deepseek-ai/deepseek-moe-65f29679f5cf26fe063686bf)
+  - [DeepSeek-v2-236B-MoE](https://arxiv.org/abs/2405.04434)
+  - [DeepSeek-Coder-v2-16|236B-MOE](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
+  - [DeepSeek-V2.5](https://huggingface.co/deepseek-ai/DeepSeek-V2.5)
+  - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+  - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+  
+<summary>Alibaba</summary>
+  - [Qwen-1.8B|7B|14B|72B](https://huggingface.co/collections/Qwen/qwen-65c0e50c3f1ab89cb8704144)
+  - [Qwen1.5-0.5B|1.8B|4B|7B|14B|32B|72B|110B|MoE-A2.7B](https://qwenlm.github.io/blog/qwen1.5/)
+  - [Qwen2-0.5B|1.5B|7B|57B-A14B-MoE|72B](https://qwenlm.github.io/blog/qwen2)
+  - [Qwen2.5-0.5B|1.5B|3B|7B|14B|32B|72B](https://qwenlm.github.io/blog/qwen2.5/)
+  - [CodeQwen1.5-7B](https://qwenlm.github.io/blog/codeqwen1.5/)
+  - [Qwen2.5-Coder-1.5B|7B|32B](https://qwenlm.github.io/blog/qwen2.5-coder/)
+  - [Qwen2-Math-1.5B|7B|72B](https://qwenlm.github.io/blog/qwen2-math/)
+  - [Qwen2.5-Math-1.5B|7B|72B](https://qwenlm.github.io/blog/qwen2.5-math/)
+  - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
+  - [Qwen2-VL-2B|7B|72B](https://qwenlm.github.io/blog/qwen2-vl/)
+  - [Qwen2-Audio-7B](https://qwenlm.github.io/blog/qwen2-audio/)
+  - [Qwen2.5-VL-3|7|72B](https://qwenlm.github.io/blog/qwen2.5-vl/)
+  - [Qwen2.5-1M-7|14B](https://qwenlm.github.io/blog/qwen2.5-1m/)
+
+<summary>Meta</summary>
+
+  - [Llama 3.2-1|3|11|90B](https://llama.meta.com/)
+  - [Llama 3.1-8|70|405B](https://llama.meta.com/)
+  - [Llama 3-8|70B](https://llama.meta.com/llama3/)
+  - [Llama 2-7|13|70B](https://llama.meta.com/llama2/)
+  - [Llama 1-7|13|33|65B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+  - [OPT-1.3|6.7|13|30|66B](https://arxiv.org/abs/2205.01068)
+
+<summary>Mistral AI</summary>
+
+  - [Codestral-7|22B](https://mistral.ai/news/codestral/)
+  - [Mistral-7B](https://mistral.ai/news/announcing-mistral-7b/)
+  - [Mixtral-8x7B](https://mistral.ai/news/mixtral-of-experts/)
+  - [Mixtral-8x22B](https://mistral.ai/news/mixtral-8x22b/)
+
+<summary>Google</summary>
+
+  - [Gemma2-9|27B](https://blog.google/technology/developers/google-gemma-2/)
+  - [Gemma-2|7B](https://blog.google/technology/developers/gemma-open-models/)
+  - [RecurrentGemma-2B](https://github.com/google-deepmind/recurrentgemma)
+  - [T5](https://arxiv.org/abs/1910.10683)
+
+<summary>Apple</summary>
+
+  - [OpenELM-1.1|3B](https://huggingface.co/apple/OpenELM)
+
+<summary>Microsoft</summary>
+
+  - [Phi1-1.3B](https://huggingface.co/microsoft/phi-1)
+  - [Phi2-2.7B](https://huggingface.co/microsoft/phi-2)
+  - [Phi3-3.8|7|14B](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct)
+
+<summary>AllenAI</summary>
+
+  - [OLMo-7B](https://huggingface.co/collections/allenai/olmo-suite-65aeaae8fe5b6b2122b46778)
+
+<summary>xAI</summary>
+
+  - [Grok-1-314B-MoE](https://x.ai/blog/grok-os)
+
+<summary>Cohere</summary>
+
+  - [Command R-35B](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
+
+<summary>01-ai</summary>
+
+  - [Yi-34B](https://huggingface.co/collections/01-ai/yi-2023-11-663f3f19119ff712e176720f)
+  - [Yi1.5-6|9|34B](https://huggingface.co/collections/01-ai/yi-15-2024-05-663f3ecab5f815a3eaca7ca8)
+  - [Yi-VL-6B|34B](https://huggingface.co/collections/01-ai/yi-vl-663f557228538eae745769f3)
+
+<summary>Baichuan</summary>
+
+   - [Baichuan-7|13B](https://huggingface.co/baichuan-inc)
+   - [Baichuan2-7|13B](https://huggingface.co/baichuan-inc)
+
+
+<summary>Nvidia</summary>
+
+   - [Nemotron-4-340B](https://huggingface.co/nvidia/Nemotron-4-340B-Instruct)
+
+<summary>BLOOM</summary>
+
+   - [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz)
+
+<summary>Zhipu AI</summary>
+
+   - [GLM-2|6|10|13|70B](https://huggingface.co/THUDM)
+   - [CogVLM2-19B](https://huggingface.co/collections/THUDM/cogvlm2-6645f36a29948b67dc4eef75)
+
+<summary>OpenBMB</summary>
+
+  - [MiniCPM-2B](https://huggingface.co/collections/openbmb/minicpm-2b-65d48bf958302b9fd25b698f)
+  - [OmniLLM-12B](https://huggingface.co/openbmb/OmniLMM-12B)
+  - [VisCPM-10B](https://huggingface.co/openbmb/VisCPM-Chat)
+  - [CPM-Bee-1|2|5|10B](https://huggingface.co/collections/openbmb/cpm-bee-65d491cc84fc93350d789361)
+
+<summary>RWKV Foundation</summary>
+
+  - [RWKV-v4|5|6](https://huggingface.co/RWKV)minicpm-2b-65d48bf958302b9fd25b698f)
+
+<summary>ElutherAI</summary>
+
+  - [Pythia-1|1.4|2.8|6.9|12B](https://github.com/EleutherAI/pythia)
+
+<summary>Stability AI</summary>
+
+  - [StableLM-3B](https://huggingface.co/stabilityai/stablelm-3b-4e1t)
+  - [StableLM-v2-1.6B](https://huggingface.co/stabilityai/stablelm-2-1_6b)
+  - [StableLM-v2-12B](https://huggingface.co/stabilityai/stablelm-2-12b)
+  - [StableCode-3B](https://huggingface.co/collections/stabilityai/stable-code-64f9dfb4ebc8a1be0a3f7650)
+
+<summary>BigCode</summary>
+
+  - [StarCoder-1|3|7B](https://huggingface.co/collections/bigcode/%E2%AD%90-starcoder-64f9bd5740eb5daaeb81dbec)
+  - [StarCoder2-3|7|15B](https://huggingface.co/collections/bigcode/starcoder2-65de6da6e87db3383572be1a)
+
+
+<summary>DataBricks</summary>
+
+  - [MPT-7B](https://www.databricks.com/blog/mpt-7b)
+  - [DBRX-132B-MoE](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+
+<summary>Shanghai AI Laboratory</summary>
+  
+  - [InternLM2-1.8|7|20B](https://huggingface.co/collections/internlm/internlm2-65b0ce04970888799707893c)
+  - [InternLM-Math-7B|20B](https://huggingface.co/collections/internlm/internlm2-math-65b0ce88bf7d3327d0a5ad9f)
+  - [InternLM-XComposer2-1.8|7B](https://huggingface.co/collections/internlm/internlm-xcomposer2-65b3706bf5d76208998e7477)
+  - [InternVL-2|6|14|26](https://huggingface.co/collections/OpenGVLab/internvl-65b92d6be81c86166ca0dde4)
