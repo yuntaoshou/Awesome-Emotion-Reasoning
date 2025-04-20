@@ -70,6 +70,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 ## Open LLM
 <summary>DeepSeek</summary>
+
   - [DeepSeek-Math-7B](https://huggingface.co/collections/deepseek-ai/deepseek-math-65f2962739da11599e441681)
   - [DeepSeek-Coder-1.3|6.7|7|33B](https://huggingface.co/collections/deepseek-ai/deepseek-coder-65f295d7d8a0a29fe39b4ec4)
   - [DeepSeek-VL-1.3|7B](https://huggingface.co/collections/deepseek-ai/deepseek-vl-65f295948133d9cf92b706d3)
@@ -81,6 +82,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
   
 <summary>Alibaba</summary>
+
   - [Qwen-1.8B|7B|14B|72B](https://huggingface.co/collections/Qwen/qwen-65c0e50c3f1ab89cb8704144)
   - [Qwen1.5-0.5B|1.8B|4B|7B|14B|32B|72B|110B|MoE-A2.7B](https://qwenlm.github.io/blog/qwen1.5/)
   - [Qwen2-0.5B|1.5B|7B|57B-A14B-MoE|72B](https://qwenlm.github.io/blog/qwen2)
