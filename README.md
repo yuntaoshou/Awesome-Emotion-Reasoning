@@ -210,21 +210,21 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 ## LLM for emotion recognition
 | Model            | Supported Modality | Link                                                                 |
 |------------------|--------------------|----------------------------------------------------------------------|
-| Otter        | Video, Text        | [GitHub](https://github.com/Luodian/Otter)                            |
-| VideoChat    | Video, Text        | [GitHub](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat) |
-| VideoChat2   | Video, Text        | [GitHub](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2) |
-| Video-LLaVA  | Video, Text        | [GitHub](https://github.com/PKU-YuanGroup/Video-LLaVA)                |
-| Video-LLaMA  | Video, Text        | [GitHub](https://github.com/DAMO-NLP-SG/Video-LLaMA)                  |
-| Video-ChatGPT | Video, Text        | [GitHub](https://github.com/mbzuai-oryx/Video-ChatGPT)                |
-| LLaMA-VID    | Video, Text        | [GitHub](https://github.com/dvlab-research/LLaMA-VID)                 |
-| mPLUG-Owl    | Video, Text        | [GitHub](https://github.com/X-PLUG/mPLUG-Owl)                        |
-| Chat-UniVi   | Video, Text        | [GitHub](https://github.com/PKU-YuanGroup/Chat-UniVi)                |
-| SALMONN      | Audio, Text        | [GitHub](https://github.com/bytedance/SALMONN)                       |
-| Qwen-Audio   | Audio, Text        | [GitHub](https://github.com/QwenLM/Qwen-Audio)                       |
-| SECap        | Audio, Text        | [GitHub](https://github.com/thuhcsi/SECap)                           |
-| OneLLM       | Audio, Video, Text | [GitHub](https://github.com/csuhan/OneLLM)                           |
-| PandaGPT     | Audio, Video, Text | [GitHub](https://github.com/yxuansu/PandaGPT)                        |
-| Emotion-LLaMA | Audio, Video, Text | [GitHub](https://github.com/ZebangCheng/Emotion-LLaMA)                |
+| A Multi-Modal Model with In-Context Instruction Tuning        | Video, Text        | [GitHub](https://github.com/Luodian/Otter)                            |
+| Videochat: Chat-centric video understanding    | Video, Text        | [GitHub](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat) |
+| Mvbench: A comprehensive multi-modal video understanding benchmark   | Video, Text        | [GitHub](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2) |
+| Video-llava: Learning united visual representation by alignment before projection  | Video, Text        | [GitHub](https://github.com/PKU-YuanGroup/Video-LLaVA)                |
+| Video-llama: An instruction-tuned audio-visual language model for video understanding  | Video, Text        | [GitHub](https://github.com/DAMO-NLP-SG/Video-LLaMA)                  |
+| Video-chatgpt: Towards detailed video understanding via large vision and language models | Video, Text        | [GitHub](https://github.com/mbzuai-oryx/Video-ChatGPT)                |
+| Llama-vid: An image is worth 2 tokens in large language models     | Video, Text        | [GitHub](https://github.com/dvlab-research/LLaMA-VID)                 |
+| mplug-owl: Modularization empowers large language models with multimodality    | Video, Text        | [GitHub](https://github.com/X-PLUG/mPLUG-Owl)                        |
+| Chat-univi: Unified visual representation empowers large language models with image and video understanding   | Video, Text        | [GitHub](https://github.com/PKU-YuanGroup/Chat-UniVi)                |
+| Salmonn: Towards generic hearing abilities for large language models | Audio, Text   | [GitHub](https://github.com/bytedance/SALMONN)                       |
+| Qwen-audio: Advancing universal audio understanding via unified large-scale audio-language models   | Audio, Text        | [GitHub](https://github.com/QwenLM/Qwen-Audio)                       |
+| Secap: Speech emotion captioning with large language model  | Audio, Text        | [GitHub](https://github.com/thuhcsi/SECap)                           |
+| Onellm: One framework to align all modalities with language       | Audio, Video, Text | [GitHub](https://github.com/csuhan/OneLLM)                           |
+| Pandagpt: One model to instruction-follow them all     | Audio, Video, Text | [GitHub](https://github.com/yxuansu/PandaGPT)                        |
+| Emotion-llama: Multimodal emotion recognition and reasoning with instruction tuning | Audio, Video, Text | [GitHub](https://github.com/ZebangCheng/Emotion-LLaMA)                |
 
 ## Datasets
 
