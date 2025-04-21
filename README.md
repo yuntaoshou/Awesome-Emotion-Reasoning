@@ -269,23 +269,23 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 | Dataset         | Domain     | Dur(hrs) | #labels | Modality | Language | Emotion? | Ego? |
 |-----------------|------------|----------|---------|----------|----------|----------|------|
-| Large Movie | movie      | -        | 25,000  | t        | EN       | ✗        | ✗    |
-| SeMAINE     | dialogue   | 06:30    | 80      | v,a      | EN       | ✓        | ✗    |
-| HUMAINE     | diverse    | 04:11    | 50      | v,a      | various  | ✓        | ✗    |
-| YouTube     | diverse    | 00:29    | 300     | v,a,t    | various  | ✗        | ✗    |
-| SST         | movie      | -        | 11,855  | t        | EN       | ✗        | ✗    |
-| ICT-MMMO    | movie      | 13:58    | 340     | v,a,t    | EN       | ✗        | ✗    |
-| RECOLA      | dialogue   | 03:50    | 46      | v,a      | FR       | ✓        | ✓    |
-| MOUD        | review     | 00:59    | 400     | v,a,t    | ES       | ✗        | ✗    |
-| AFEW      | movie      | 02:28    | 1,645   | v,a      | various  | ✓        | ✓    |
-| SEWA        | adverts   | 04:39    | 538     | v,a      | EN,DE,EL | ✓        | ✗    |
-| Disneyworld | disneyland| 42:00    | 15,000  | v,a,t    | EN       | ✗        | ✓    |
-| EGTEA Gaze+ | diverse    | 28:00    | -       | v,a,t    | various  | ✓        | ✓    |
-| BEOID       | diverse    | -        | -       | v,a,t    | EN       | ✗        | ✗    |
-| Chorus-Ego  | home       | 34:00    | 30,000  | v,a,t    | EN       | ✗        | ✓    |
-| EPIC       | kitchen    | 100:00   | 90,000  | v,a,t    | EN       | ✗        | ✓    |
-| Ego-4D      | diverse    | 3025:00  | 74000   | v,a,t    | various  | ✗        | ✓    |
-| \(E^3\)   | diverse    | 71:41    | 81,248  | v,a,t    | various  | ✓        | ✓    |
+| Large Movie | movie      | -        | 25,000  | T        | EN       | ✗        | ✗    |
+| SeMAINE     | dialogue   | 06:30    | 80      | V,A      | EN       | ✓        | ✗    |
+| HUMAINE     | diverse    | 04:11    | 50      | V,A      | various  | ✓        | ✗    |
+| YouTube     | diverse    | 00:29    | 300     | V,A,T    | various  | ✗        | ✗    |
+| SST         | movie      | -        | 11,855  | T        | EN       | ✗        | ✗    |
+| ICT-MMMO    | movie      | 13:58    | 340     | V,A,T    | EN       | ✗        | ✗    |
+| RECOLA      | dialogue   | 03:50    | 46      | V,A      | FR       | ✓        | ✓    |
+| MOUD        | review     | 00:59    | 400     | V,A,T    | ES       | ✗        | ✗    |
+| AFEW      | movie      | 02:28    | 1,645   | V,A      | various  | ✓        | ✓    |
+| SEWA        | adverts   | 04:39    | 538     | V,A      | EN,DE,EL | ✓        | ✗    |
+| Disneyworld | disneyland| 42:00    | 15,000  | V,A,T    | EN       | ✗        | ✓    |
+| EGTEA Gaze+ | diverse    | 28:00    | -       | V,A,T    | various  | ✓        | ✓    |
+| BEOID       | diverse    | -        | -       | V,A,T    | EN       | ✗        | ✗    |
+| Chorus-Ego  | home       | 34:00    | 30,000  | V,A,T    | EN       | ✗        | ✓    |
+| EPIC       | kitchen    | 100:00   | 90,000  | V,A,T    | EN       | ✗        | ✓    |
+| Ego-4D      | diverse    | 3025:00  | 74000   | V,A,T    | various  | ✗        | ✓    |
+| \(E^3\)   | diverse    | 71:41    | 81,248  | V,A,T    | various  | ✓        | ✓    |
 
 
 ## Other surveys
