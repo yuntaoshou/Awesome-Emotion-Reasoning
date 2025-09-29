@@ -105,6 +105,8 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [Qwen2-Audio-7B](https://qwenlm.github.io/blog/qwen2-audio/)
   - [Qwen2.5-VL-3|7|72B](https://qwenlm.github.io/blog/qwen2.5-vl/)
   - [Qwen2.5-1M-7|14B](https://qwenlm.github.io/blog/qwen2.5-1m/)
+  - [Qwen3-VL-235B-A22B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct)
+  - [Qwen3-VL-235B-A22B-Thinking](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking)
 
 <summary>Meta</summary>
 
