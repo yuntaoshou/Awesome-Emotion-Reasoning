@@ -77,10 +77,14 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | 2024-07 |         Qwen2-Audio         |      Alibaba     | [Qwen2-Audio Technical Report](https://arxiv.org/pdf/2407.10759)                                                                                                                                                                                                 |
 | 2024-09 |         OLMoE        |       Ai2     | [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)                                                                                                                                                                                                 |
 | 2024-09 |         Qwen2-VL        |       Alibaba     | [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/pdf/2409.12191)                                                                                                 |
+| 2024-10 |        Janus        |       DeepSeek     | [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2410.13848)                                                                                                 |
+| 2024-11 |        JanusFlow        |       DeepSeek     | [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2411.07975)                                                                                                 |
 | 2024-12 |         Qwen2.5        |      Alibaba     | [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)                                                                                                                                                                                                 |
 | 2024-12 |         DeepSeek-V3        |      DeepSeek     | [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437v1)                                                                                                                                                                                                 |
 | 2024-12 |         QVQ        |      Alibaba     | [QVQ: To See the World with Wisdom](https://qwenlm.github.io/blog/qvq-72b-preview/)                                                                                                                                                                                                 |
+| 2024-12 |         DeepSeek-VL2        |      DeepSeek     | [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302)                                                                                                                                                                                                 |
 | 2025-01 |         DeepSeek-R1        |      DeepSeek     | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)                                                                                                 |
+| 2025-01 |         Janus-Pro        |      DeepSeek     | [Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling](https://arxiv.org/pdf/2501.17811)                                                                                                 |
 | 2025-02 |         Qwen2.5-VL        |      Alibaba     | [Qwen2.5-VL Technical Report](https://arxiv.org/pdf/2502.13923)                                                                                                                                                                                                 |
 | 2025-03 |         Qwen2.5-Omni        |      Alibaba     | [Qwen2.5-Omni Technical Report](https://arxiv.org/pdf/2503.20215)                                                                                                                                                                                                 |
 | 2025-03 |         QwQ        |      Alibaba     | [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)                                                                                                 |
@@ -98,11 +102,36 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [DeepSeek-V2.5](https://huggingface.co/deepseek-ai/DeepSeek-V2.5)
   - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
   - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+  - [DeepSeek-R1-Zero](https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero)
+  - [DeepSeek-R1-Distill-Llama-70B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B)
+  - [DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B)
+  - [DeepSeek-R1-Distill-Qwen-7B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B)
+  - [DeepSeek-R1-Distill-Qwen-32B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B)
+  - [DeepSeek-R1-Distill-Qwen-14B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B)
+  - [DeepSeek-R1-Distill-Qwen-7B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B)
+  - [DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
+  - [DeepSeek-R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
+  - [DeepSeek-R1-0528-Qwen3-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B)
+  - [DeepSeek-V2-Chat-0628](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat-0628)
+  - [DeepSeek-V2-Chat](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat)
+  - [DeepSeek-V2](https://huggingface.co/deepseek-ai/DeepSeek-V2)
+  - [DeepSeek-V2-Lite](https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite)
+  - [DeepSeek-V2-Lite-Chat](https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite-Chat)
+  - [DeepSeek-V2.5](https://huggingface.co/deepseek-ai/DeepSeek-V2.5)
+  - [DeepSeek-V2.5-1210](https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210)
   - [DeepSeek-V3.1-Base ](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base)
   - [DeepSeek-V3.1](https://huggingface.co/deepseek-ai/DeepSeek-V3.1)
   - [DeepSeek-V3.1-Terminus](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus)
   - [DeepSeek-V3.2-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp)
   - [DeepSeek-V3.2-Exp-Base](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp-Base)
+  - [Deepseek-Vl2-Tiny](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny)
+  - [Deepseek-Vl2-Small](https://huggingface.co/deepseek-ai/deepseek-vl2-small)
+  - [Deepseek-Vl2](https://huggingface.co/deepseek-ai/deepseek-vl2)
+  - [Janus-Pro-7B](https://huggingface.co/deepseek-ai/Janus-Pro-7B)
+  - [Janus-Pro-1B](https://huggingface.co/deepseek-ai/Janus-Pro-1B)
+  - [Janus-1.3B](https://huggingface.co/deepseek-ai/Janus-1.3B)
+  - [JanusFlow-1.3B](https://huggingface.co/deepseek-ai/JanusFlow-1.3B)
+  - 
   
 <summary>Alibaba</summary>
 
