@@ -98,6 +98,11 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [DeepSeek-V2.5](https://huggingface.co/deepseek-ai/DeepSeek-V2.5)
   - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
   - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+  - [DeepSeek-V3.1-Base ](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base)
+  - [DeepSeek-V3.1](https://huggingface.co/deepseek-ai/DeepSeek-V3.1)
+  - [DeepSeek-V3.1-Terminus](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus)
+  - [DeepSeek-V3.2-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp)
+  - [DeepSeek-V3.2-Exp-Base](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp-Base)
   
 <summary>Alibaba</summary>
 
