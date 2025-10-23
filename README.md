@@ -10,6 +10,16 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 [![GitHub stars][stars-img]][stars-url] 
 [![GitHub forks][fork-img]][fork-url]
 
+## Trending LLM Projects
+
+- [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
+- [open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - First-generation reasoning models from DeepSeek.
+- [Qwen2.5-Max](https://qwenlm.github.io/blog/qwen2.5-max/) - Exploring the Intelligence of Large-scale MoE Model.
+- [OpenAI o3-mini](https://openai.com/index/openai-o3-mini/) - Pushing the frontier of cost-effective reasoning.
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - First open-sourced GPT-4o level model.
+- [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - MoE language model with 32B active and 1T total parameters.
+
 
 ## Milestone Papers
 |   Date  |       keywords       |      Institute     |                                                                                                        Paper                                                                                                       |
