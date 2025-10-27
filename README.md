@@ -358,8 +358,8 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | Large language models meet nlp: A survey | [[paper]](https://arxiv.org/pdf/2405.12819) | - |
 | Efficient large language models: A survey | [[paper]](https://arxiv.org/pdf/2312.03863) | [[source]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) |
 
-
-If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil: :)
+## 📌 Citation
+If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil: :
 
 ```bibtex
 @article{shou2025multimodal,
