@@ -358,6 +358,18 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | Large language models meet nlp: A survey | [[paper]](https://arxiv.org/pdf/2405.12819) | - |
 | Efficient large language models: A survey | [[paper]](https://arxiv.org/pdf/2312.03863) | [[source]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) |
 
+
+If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil: :)
+
+```bibtex
+@article{shou2025multimodal,
+  title={Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey},
+  author={Shou, Yuntao and Meng, Tao and Ai, Wei and Li, Keqin},
+  journal={arXiv preprint arXiv:2509.24322},
+  year={2025}
+}
+```
+
 ## Acknowledgement :heart:
 Thanks to [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM).
 
