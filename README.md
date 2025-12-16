@@ -145,7 +145,6 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [Janus-Pro-1B](https://huggingface.co/deepseek-ai/Janus-Pro-1B)
   - [Janus-1.3B](https://huggingface.co/deepseek-ai/Janus-1.3B)
   - [JanusFlow-1.3B](https://huggingface.co/deepseek-ai/JanusFlow-1.3B)
-  - 
   
 <summary>Alibaba</summary>
 
@@ -157,6 +156,10 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [Qwen2.5-Coder-1.5B|7B|32B](https://qwenlm.github.io/blog/qwen2.5-coder/)
   - [Qwen2-Math-1.5B|7B|72B](https://qwenlm.github.io/blog/qwen2-math/)
   - [Qwen2.5-Math-1.5B|7B|72B](https://qwenlm.github.io/blog/qwen2.5-math/)
+  - [Qwen2.5-Omni-7B](https://huggingface.co/Qwen/Qwen2.5-Omni-7B)
+  - [Qwen2.5-Omni-3B](https://huggingface.co/Qwen/Qwen2.5-Omni-3B)
+  - [Qwen2.5-Omni-7B-GPTQ-Int4](https://huggingface.co/Qwen/Qwen2.5-Omni-7B-GPTQ-Int4)
+  - [Qwen2.5-Omni-7B-AWQ](https://huggingface.co/Qwen/Qwen2.5-Omni-7B-AWQ)
   - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
   - [Qwen2-VL-2B|7B|72B](https://qwenlm.github.io/blog/qwen2-vl/)
   - [Qwen2-Audio-7B](https://qwenlm.github.io/blog/qwen2-audio/)
@@ -164,6 +167,12 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [Qwen2.5-1M-7|14B](https://qwenlm.github.io/blog/qwen2.5-1m/)
   - [Qwen3-VL-235B-A22B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct)
   - [Qwen3-VL-235B-A22B-Thinking](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking)
+  - [Qwen3-Omni-30B-A3B-Captioner](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Captioner)
+  - [Qwen3-Omni-30B-A3B-Instruct](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct)
+  - [Qwen3-Omni-30B-A3B-Thinking](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking)
+  - [Qwen3-Next-80B-A3B-Instruct](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct)
+  - [Qwen3-Next-80B-A3B-Instruct-FP8](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct-FP8)
+  - [Qwen3-Next-80B-A3B-Thinking-FP8](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking-FP8)
 
 <summary>Meta</summary>
 
@@ -173,6 +182,19 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [Llama 2-7|13|70B](https://llama.meta.com/llama2/)
   - [Llama 1-7|13|33|65B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
   - [OPT-1.3|6.7|13|30|66B](https://arxiv.org/abs/2205.01068)
+  - [Llama-4-Scout-17B-16E-Instruct](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct)
+  - [Llama-4-Scout-17B-16E](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E)
+  - [Llama-4-Maverick-17B-128E-Instruct](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct)
+  - [Llama-4-Maverick-17B-128E-Instruct-FP8](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8)
+  - [Llama-4-Maverick-17B-128E](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E)
+  - [Llama-4-Scout-17B-16E-Instruct-Original](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct-Original)
+  - [Llama-4-Maverick-17B-128E-Instruct-FP8-Original](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-Original)
+  - [Llama-4-Scout-17B-16E-Original](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Original)
+  - [Llama-4-Maverick-17B-128E-Instruct-Original](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-Original)
+  - [Llama-4-Maverick-17B-128E-Original](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Original)
+  - [Llama-Prompt-Guard-2-22M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-22M)
+  - [Llama-Prompt-Guard-2-86M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M)
+  - [Llama-Guard-4-12B](https://huggingface.co/meta-llama/Llama-Guard-4-12B)
 
 <summary>Mistral AI</summary>
 
@@ -180,6 +202,19 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   - [Mistral-7B](https://mistral.ai/news/announcing-mistral-7b/)
   - [Mixtral-8x7B](https://mistral.ai/news/mixtral-of-experts/)
   - [Mixtral-8x22B](https://mistral.ai/news/mixtral-8x22b/)
+  - [Ministral-3-14B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512)
+  - [Ministral-3-8B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512)
+  - [Ministral-3-3B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512)
+  - [Ministral-3-14B-Reasoning-2512](https://huggingface.co/mistralai/Ministral-3-14B-Reasoning-2512)
+  - [Ministral-3-8B-Reasoning-2512](https://huggingface.co/mistralai/Ministral-3-8B-Reasoning-2512)
+  - [Ministral-3-3B-Reasoning-2512](https://huggingface.co/mistralai/Ministral-3-3B-Reasoning-2512)
+  - [Ministral-3-14B-Base-2512](https://huggingface.co/mistralai/Ministral-3-14B-Base-2512)
+  - [Ministral-3-8B-Base-2512](https://huggingface.co/mistralai/Ministral-3-8B-Base-2512)
+  - [Ministral-3-3B-Base-2512](https://huggingface.co/mistralai/Ministral-3-3B-Base-2512)
+  - [Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)
+  - [Mistral-Large-3-675B-Instruct-2512-NVFP4](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512-NVFP4)
+  - [Mistral-Large-3-675B-Instruct-2512-Eagle](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512-Eagle)
+  - [Mistral-Large-3-675B-Base-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Base-2512)
 
 <summary>Google</summary>
 
